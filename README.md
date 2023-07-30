@@ -1,5 +1,5 @@
 # Rapid Opioid Dose Reduction or Discontinuation and Self-Harm
-## Supplementary online content for manuscript in progress
+## Online content for manuscript in progress
 Online content includes International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM), International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM), Current Procedural Terminology (CPT), National Drug Code (NDC) codes for potential confounders.
 
 ## Manuscript in progress
