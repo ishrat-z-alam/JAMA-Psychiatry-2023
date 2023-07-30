@@ -5,6 +5,5 @@ Online content includes International Classification of Diseases, Ninth Revision
 ## Manuscript in progress
 **Opioid Reduction or Discontinuation and Self-Harm, Suicide Attempt and Suicide Death Among High-Dose Long-Term Opioid Therapy Patients in North Carolina, 2006-2018**
 
-Ishrat Z. Alam, BA; Bethany L. DiPrete, PhD, MSGH; Brian W. Pence, PhD; Arrianna M. Planey, PhD, MA; Stephen W. Marshall, PhD; Naoko Fulcher, MS; Shabbar I. Ranapurwala, PhD, MPH
-
-**Corresponding Author:** Ishrat Z. Alam, BA, Gillings School of Global Public Health, Department of Epidemiology, University of North Carolina at Chapel Hill, 135 Dauer Dr, 2101 McGavran-Greenberg Hall, Chapel Hill, NC 27599 (ialam@email.unc.edu). 
+_Ishrat Z. Alam, BA; Bethany L. DiPrete, PhD, MSGH; Brian W. Pence, PhD; Arrianna M. Planey, PhD, MA; Stephen W. Marshall, PhD; Naoko Fulcher, MS; Shabbar I. Ranapurwala, PhD, MPH
+_
