@@ -1,6 +1,6 @@
 # Rapid Opioid Dose Reduction or Discontinuation and Self-Harm
 ## Additional online content for manuscript in progress
-Online content includes International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM), International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM), Current Procedural Terminology (CPT), National Drug Code (NDC) numbers for potential confounders.
+[Additional online content](https://github.com/ishrat-z-alam/Rapid-Opioid-Dose-Reduction-or-Discontinuation-and-Self-Harm/blob/main/Additional_Online_Content_Alam_2023-08-01.xlsx) includes International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM), International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM), Current Procedural Terminology (CPT), National Drug Code (NDC) numbers for potential confounders.
 
 ## Manuscript in progress
 **Opioid Reduction or Discontinuation and Self-Harm, Suicide Attempt and Suicide Death Among High-Dose Long-Term Opioid Therapy Patients in North Carolina, 2006-2018**
